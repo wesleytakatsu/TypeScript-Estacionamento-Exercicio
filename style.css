@@ -14,3 +14,8 @@ table, th, td{
 footer{
     margin-top: 20px;
 }
+
+input{
+    background-color: black;
+    color: blue;
+}
