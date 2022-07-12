@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: chartreuse;
+}
+
+table, th, td{
+    margin: 5px;
+    margin-top: 20px;
+    padding: 5px;
+    border-color: blue;
+    border: blue 2px solid;
+}
+
+footer{
+    margin-top: 20px;
+}
